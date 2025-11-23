@@ -23,7 +23,7 @@ UTC  : 2025-01-01 00:00 UTC+0000
 ```
 
 ### Test Case 3: Flexible Input Support
-Command: python meeting_converter.py "2023-12-25 10:00:00" "CET"
+Command: python meeting_converter.py "2025-12-25 10:00:00" "CET"
 
 Output:
 ```
